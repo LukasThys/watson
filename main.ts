@@ -16,7 +16,6 @@ let manX = 0
 let manY = 0
 let bootX = 0
 let bootY = 0
-led.setBrightness(1)
 let score = 0
 let game2 = 1
 bootY = 4
